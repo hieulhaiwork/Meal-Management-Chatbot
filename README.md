@@ -31,7 +31,7 @@ The chatbot has the ability to:
 <br />
 <a href="https://www.crewai.com/">CrewAI</a>
 
-## Notes
+## Run
 
 The `requirements.txt` file should list all Python libraries that your notebooks
 depend on, and they will be installed using:
@@ -47,3 +47,8 @@ Then create a new file named .env includes:
 - MAX_OUTPUT = 100
 
 Finally, run main.py and enjoy!
+
+## Futher Improvement
+
+- Apply user data storage on Google Cloud
+- Implement reinforcement learning from human feedback to optimize the chatbot's responses instead of storing them in a file
