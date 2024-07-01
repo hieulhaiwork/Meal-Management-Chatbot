@@ -4,4 +4,3 @@ langchain_google_genai
 langchain_core>=0.2.10
 crewai
 crewai-tools
-
