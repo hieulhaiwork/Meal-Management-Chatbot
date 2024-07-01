@@ -36,7 +36,7 @@ def summarize_feedback(conversation_history):
 
 def chat_with_bot(user_document,feedback_content,report_summary):
     # Initialize stopping condition
-    for i in range(1): #Only for test
+    for i in range(3): #Only for test
         user_request = input("Input your question: ")
         bot_response = process_input(user_request, user_document)
         response = communicate_with_agent(bot_response, feedback_content, report_summary)

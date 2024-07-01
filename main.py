@@ -4,6 +4,7 @@ from feedback_sum import *
 
 
 choice = input('Is this your first time running? (Y/N): ')
+
 if choice.lower() in ['yes', 'y']:
     report_insight("user_documents\diabetes.txt","summary_documents")
 elif choice.lower() in ['no','n']:

@@ -1,6 +1,4 @@
-- The user likes fish.
+I like health food
+
 - The user likes candy.
-- The user should avoid eating candy.
-- The user should limit their intake of fish to 2-3 servings per week.
-- The user should avoid eating bananas.
-- The user likes watermelon.
+- The user likes fish.
