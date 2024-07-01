@@ -11,7 +11,7 @@
     This is my personal project to create a chatbot that provides nutritional support for people with health problems. 
     <br />
     <br />
-    <a href="https://github.com/github_username/repo_name">View Demo</a>
+    <a href="https://drive.google.com/file/d/1_7ovjM1mcIwo-BQ1TiK9G0t7g9HdaZXx/view?usp=drive_link">View Demo</a>
   </p>
 </div>
 
